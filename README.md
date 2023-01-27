@@ -1,2 +1,2 @@
-# class24
-class24
+# PRO-C25-Project-solution
+project solution for C25
